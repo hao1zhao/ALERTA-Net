@@ -1,5 +1,5 @@
 # ALERTA-Net
-This repository hosts a comprehensive dataset used in the paper titled "ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction."
+This repository hosts a comprehensive dataset used in the paper titled "[ALERTA-Net: A Temporal Distance-Aware Recurrent Networks for Stock Movement and Volatility Prediction](https://arxiv.org/abs/2310.18706/)."
 
 # Data Component
 The dataset provides sentiment scores for 41 blue-chip stocks from 01/06/2020 to 31/05/2023. This dataset is composed of three primary components:
